@@ -49,7 +49,7 @@ WebGPUVision is a multi-platform graphics debugging and profiling tool designed 
     
 ## Maybes
 
-- [ ] **AI-Assisted Call Graph Optimizer**: Leverages the power of artificial intelligence to automatically optimize your rendering call graph, reducing bottlenecks and improving efficiency.
+- [ ] **AI-Assisted Call Graph Optimizer**: Leverage the power of artificial intelligence to get rendering optimization tips to reduce bottlenecks and improve efficiency.
 
 ## Installation
 
@@ -72,7 +72,7 @@ In browser demo here: [DEMO](https://theimmersiveweb.com/experiments/WebGPUVisio
 
 ## Usage
 
-WebGPUVision provides an intuitive user interface for frame capturing and inspecting. It also allows direct embedding into your application via its API for seamless integration and on-demand captures.
+WebGPUVision provides a user interface for frame capturing and inspecting applications locally or remotely. It also allows direct embedding into your application via its API for seamless integration and on-demand captures.
 
 For a comprehensive guide on how to use WebGPUVision, please refer to our official documentation.
 
